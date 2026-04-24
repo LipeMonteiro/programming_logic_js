@@ -43,7 +43,7 @@ O objetivo é fortalecer a base lógica e consolidar fundamentos essenciais para
 7. Conversão Celsius → Fahrenheit
 8. Número positivo, negativo ou zero
 9. Cálculo de aumento salarial
-10. Verificação de ano bissexto ✅
+10. Verificação de ano bissexto
 
 ---
 
